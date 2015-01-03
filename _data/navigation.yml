@@ -1,16 +1,17 @@
 # Site navigation links
 
+- title: Home
+  url: / 
+
 - title: About
   url: /about/
 
-- title: Articles
-  url: /articles/
+#- title: Tracks
+#  url: /tracks/
 
-- title: Blog
-  url: /blog/
+- title: Books
+  url: /books/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Brews
+  url: /brews/
 
-- title: Made Mistakes
-  url: http://mademistakes.com

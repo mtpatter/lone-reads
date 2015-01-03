@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Blog
-excerpt: "An archive of blog posts sorted by date."
+title: BYOBC Posts
+excerpt: "An archive of blog posts from the BYOBC."
+image:
+    feature: lr-banner.png
 ---
 
 <ul class="post-list">
