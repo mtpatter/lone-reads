@@ -17,7 +17,7 @@ who don't really want to talk to other people.
  
 ## Here's how it works:
 
-1. We choose books with a new selection announced about every two weeks on LoneReaday.
+1. We choose books with a new selection announced about every two weeks on *LoneReaday*.
 2. Each selected book is split up into weekly-readable goal chunks.
 3. Our LoneReaders write short posts, or *AfterWords*, around a few key questions to read after finishing each chunk.
 4. You read along with the selections and weekly *AfterWords* posts.  Drink along with our *RoughDraught* suggested drink pairings.

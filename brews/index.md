@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Brew Selections and RoughDraught Posts
+title: Brew Selections and 'RoughDraughts'
 excerpt: "An archive of posts from the BYOBC."
 image:
     feature: brew-banner.png
 ---
+
+### It's not drinking alone if you're drinking with a book.
 
 Check back soon for the first selection of 2015.
 

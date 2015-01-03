@@ -69,7 +69,7 @@ book is a night in alone with a good book and a good brew.
 |----
 
 Follow us on twitter [@lonereads](http://twitter.com/lonereads) for selection
-announcements.  Happy LoneReads!
+announcements.  And remember, it's not drinking alone if you are drinking with a book.  Happy LoneReads!
 
 
 

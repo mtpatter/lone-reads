@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Book Selections and AfterWords Posts
+title: Book Selections and 'AfterWords'
 excerpt: "An archive of posts from the BYOBC."
 image:
     feature: lr-banner.png
 ---
+
+### Post-reading afterthoughts for the lone read.
 
 Check back soon for the first selection of 2015.
 
