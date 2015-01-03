@@ -6,7 +6,7 @@ description: A by-yourself online book club (BYOBC).
 logo: lone-reads-logo.png
 search: true
 #url: http://localhost:4000 
-url: lonereads.com 
+url: http://lonereads.com 
 
 
 # Jekyll configuration
