@@ -31,7 +31,7 @@ book is a night in alone with a good book and a good brew.
 
 | LoneReaday Book Selection Announced | First Half AfterWords Available | Second Half AfterWords Available |
 |:--------|:--------|:--------|
-| [Jan 04 - Red Rising by Pierce Brown]({{site.url}}/books/first-lone-read-2015/)  | Jan 11   | Jan 18   |
+| [Jan 04 - Red Rising by Pierce Brown]({{site.url}}/books/first-lone-read-2015/)  | [Jan 11]({{site.url}}/books/red-rising-1)   | Jan 18   |
 | Jan 18  | Jan 25   | Feb 01   |
 |----
 | Feb 01  | Feb 08   | Feb 15   |
